@@ -24,4 +24,4 @@ Installation
 ```
 $ vagrant up
 ```
-This command will create virtual box instance with Ubuntu 15.10 accessible on 192.168.33.10
+This command will create virtual box instance with Ubuntu 15.10 accessible on 192.168.33.10!
